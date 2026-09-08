@@ -4,11 +4,11 @@
   The ultimate pro manager for seamless Roblox account switching. Speed. Power. Precision.
 </p>
 
-<p align="center">
-  <a href="y.gy/roblox-account-switch-manager-pro-latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=FFB300" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-switch-manager-pro-latest">
+    <img src="https://img.shields.io/badge/💼_DOWNLOAD_PRO_NOW-FFB300?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:6px;">
   v3.0.0 • 5.1 MB • one-click • PRO
@@ -23,9 +23,6 @@
 No more constant logins, manual password typing, or lost sessions. Everything is streamlined for maximum efficiency.
 
 ---
-
-<img width="1280" height="720" alt="maxresdefault - 2026-09-09T001300 555" src="https://github.com/user-attachments/assets/d78728fb-2ebb-4b63-99c5-b6176ba95c4c" />
-
 
 ## 🔥 KEY FEATURES
 
@@ -90,7 +87,7 @@ Built with uncompromising privacy standards:
 
 ## 🔧 INSTALL
 
-https://github.com/user-attachments/assets/ef4e60b0-6fac-4935-8621-205c8606265d
+https://github.com/user-attachments/assets/f2493dc1-6807-4113-af83-0e00077d0d8f
 
 
 ---
@@ -141,11 +138,11 @@ A: Yes, this is the latest PRO release with all premium features and optimizatio
 
 ---
 
-<p align="center">
-  <a href="y.gy/roblox-account-switch-manager-pro-latest">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20PRO%20NOW-FFB300?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=FFB300" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-switch-manager-pro-latest">
+    <img src="https://img.shields.io/badge/💼_DOWNLOAD_PRO_NOW-FFB300?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:4px;">
   Click above to download the latest PRO version
